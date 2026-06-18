@@ -17,3 +17,9 @@ numbers = [64, 25, 12, 22, 11, 90, 34, 7, 18, 50]
 
 # Danh sách số đã sắp xếp để test binary search
 sorted_numbers = [7, 11, 12, 18, 22, 25, 34, 50, 64, 90]
+
+delivery_costs = [10, 20, 15, 30, 25]
+small_orders = ["PS001", "PS002", "PS003"]
+order_weights = [2, 3, 5, 6, 8]
+target_weight = 10
+n_queens_values = [1, 2, 3, 4]
